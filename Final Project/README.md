@@ -26,11 +26,25 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.1 Roles assigned to the project and persons allocated
 
+* Project manager - Maria Macavei
+* Product owner - David Dafinescu 
+* Software developer - Adrian Adagiu
+* QA Engineer - Valentina Hatos
 
 #### 1.1.2 Entry criteria defined
 
+* functional specifications are defined
+* roles needed for the project are allocated
+* initial project risks were detected and mitigated
 
 #### 1.1.3 Exit criteria defined
+
+* number of unresolved bugs is insignificant or they have low priority
+* all tests have been executed
+* all resolved bugs have been re-tested and approved by the QA team
+* deadline was reached
+* no detected major risk remained un-mitigated
+* exploratory regression testing must be performed on the My Info module, which includes the Dependents section
 
 #### 1.1.4 Test scope
 
