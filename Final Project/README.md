@@ -124,10 +124,15 @@ characters, in Edit Personal Details module
 
 ## 1.7 Test Completion
 
-* Exit criteria was evaluated and passed
-* The traceability matrix was generated and can be found here: [Traceability_matrix.csv]()
-* Test execution chart was generated, the final report shows.... -> describe the final report
 
--> enter here test execution report/chart
+* As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
+* The traceability matrix was generated and can be found here: [Traceability_matrix.csv](https://github.com/HVali/Manual_Testing_Portofolio/blob/main/Final%20Project/Traceability_Matrix.xlsx)
+* Test execution chart was generated, the final report shows that a number 5 tests have failed of a total of 44 
+* A number of 44 test cases were planned for execution and all of them were executed
+* A number of 5 total bugs were found, from which the priority is: 2 are high and 3 are low
+
+![image](https://github.com/HVali/Manual_Testing_Portofolio/blob/main/Final%20Project/Test_Execution_Chart.png)
 
 # 2 SQL section
+
+Created a database named 'orangehrm' and a number of two tables named 'departments' and 'employees' with all the columns needed to save data per specifications. Performed different queries inside the sql file: [orangehrm.sql](https://github.com/HVali/Manual_Testing_Portofolio/blob/main/Final%20Project/orangehrm%20database.sql)
