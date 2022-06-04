@@ -108,9 +108,18 @@ The following elements are needed to be ready before the test execution phase be
 
 ## 1.6 Test Execution
 
-* Test cases are executed on the created test Cycle summary: [cycle_summary_execution.pdf]()
-* Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf]()
-    *  enter here bug titles
+* Test cases are executed on the created test Cycle summary: [Employee_cycle_summary_execution.pdf](https://github.com/HVali/Manual_Testing_Portofolio/blob/main/Final%20Project/Employee_cycle_summary_execution.pdf)
+* Bugs have been created based on the failed tests. The complete bug reports can be found here: [Employee_created_bugs.pdf](https://github.com/HVali/Manual_Testing_Portofolio/blob/main/Final%20Project/Employee_created_bugs.pdf)
+    *  VFP-49 Date of Birth field accepts a date greater than the current date
+    *  VFP-50 License Expiry Date field accepts a date smaller than the current date
+    *  VFP-51 Photograph upload section accepts .jpg/.png/.gif image larger than 1MB
+    *  VFP-52 First Name, Middle Name and Last Name input fields doesn't accepts 55
+characters, in Add Employee module
+    *  VFP-53 First Name, Middle Name and Last Name input fields doesn't accepts 55
+characters, in Edit Personal Details module
+
+* API tests are executed based on the checklist. The collection used can be found here: [JSON file with the collection of requests created for the Employee API](https://github.com/HVali/Manual_Testing_Portofolio/blob/main/Final%20Project/Orange%20HRM%20API%20Collection.postman_collection.json)
+* Full regression testing is needed after the bugs are fixed
 
 
 ## 1.7 Test Completion
