@@ -90,7 +90,7 @@ are boundary value analysis, equivalence partitioning and use case testing.
 The following checklist was generated: [Checklist.pdf](https://github.com/HVali/Manual_Testing_Portofolio/blob/main/Final%20Project/Checklist.pdf) and test cases: [Test_cases.pdf](https://github.com/HVali/Manual_Testing_Portofolio/blob/main/Final%20Project/Test_cases.pdf)
 
 
-The test cases with steps can be viewed here: [test_cases_with_steps.pdf](https://github.com/HVali/Manual_Testing_Portofolio/blob/main/Final%20Project/Employee_test_cases_with_steps.pdf)
+The test cases with steps can be viewed here: [Employee_test_cases_with_steps.pdf](https://github.com/HVali/Manual_Testing_Portofolio/blob/main/Final%20Project/Employee_test_cases_with_steps.pdf)
 
 
 For the Employee API, the following checklist was generated: [API_test_checklist.csv](https://github.com/HVali/Manual_Testing_Portofolio/blob/main/Final%20Project/API_test_checklist.csv)
