@@ -87,20 +87,24 @@ The testing process will be executed based on the above requirements for the Emp
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases 
 are boundary value analysis, equivalence partitioning and use case testing.
 
-The following checklist was generated:[Checklist.pdf](https://github.com/HVali/Manual_Testing_Portofolio/blob/main/Final%20Project/Checklist.pdf) and test cases [Test_cases.pdf](https://github.com/HVali/Manual_Testing_Portofolio/blob/main/Final%20Project/Test_cases.pdf)
+The following checklist was generated: [Checklist.pdf](https://github.com/HVali/Manual_Testing_Portofolio/blob/main/Final%20Project/Checklist.pdf) and test cases: [Test_cases.pdf](https://github.com/HVali/Manual_Testing_Portofolio/blob/main/Final%20Project/Test_cases.pdf)
 
 
-**Test cases:**
--> enter here test cases or at least the titles
+The test cases with steps can be viewed here: [test_cases_with_steps.pdf](https://github.com/HVali/Manual_Testing_Portofolio/blob/main/Final%20Project/Employee_test_cases_with_steps.pdf)
 
 
-The test cases with steps can be viewed here: [test_cases.pdf]()
+For the Employee API, the following checklist was generated: [API_test_checklist.csv](https://github.com/HVali/Manual_Testing_Portofolio/blob/main/Final%20Project/API_test_checklist.csv)
 
 ## 1.5 Test Implementation
 
 The following elements are needed to be ready before the test execution phase begins:
 
-* enter here what needs to be ready for the test execution to begin
+* Testing environment is up and running: https://opensource-demo.orangehrmlive.com/
+* Access to the testing environment is given: Username : Admin | Password : admin123
+* Cycle summary was created 
+* Test cases were added to the cycle summary
+* Postman collection with the dependents API methods was created 
+* Authorization token was created for accessing the API
 
 ## 1.6 Test Execution
 
