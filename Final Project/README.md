@@ -12,7 +12,7 @@ Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 
 # Functional specifications
 
-The below Story was created in JIRA and describes the functional specifications of the Employee module, for which the final project is performed upon: (https://github.com/HVali/Manual_Testing_Portofolio/blob/main/Final%20Project/Final_Project_Functional_Specifications.pdf).
+The below Story was created in JIRA and describes the functional specifications of the Employee module, for which the final project is performed upon: [Final_project_Functional_specifications.png](https://github.com/HVali/Manual_Testing_Portofolio/blob/main/Final%20Project/Final_Project_Functional_Specifications.pdf).
 
 ![image](https://github.com/HVali/Manual_Testing_Portofolio/blob/main/Final%20Project/Final_Project_Functional_Specifications.png)
 
@@ -65,18 +65,30 @@ The entry criterias defined in the Test Planning phase have been achieved and th
 
 Variou periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken.
 The following status report was generated after 40% of the test cases were executed, on 19th of May 2022:
+
 ![image](https://github.com/HVali/Manual_Testing_Portofolio/blob/main/Final%20Project/Monitoring_and_Control_Test_Metrics.png)
+
 ![image](https://github.com/HVali/Manual_Testing_Portofolio/blob/main/Final%20Project/Monitoring_and_Control_Traceability_Matrix.png)
 
 ## 1.3 Test Analysis
 
-The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
- * Enter test conditions here
+The testing process will be executed based on the above requirements for the Employee module. The following test conditions were found:
+
+ * Enter data only for mandatory fields and check that the employee is created/updated
+ * Enter data for all available fields and check that the employee is created/updated
+ * Leave mandatory fields empty and check that the employee cannot be created/updated
+ * Check that an employee can be deleted
+ * View employee details and check they are correct
+ * View all employees in a list
+ * Check all validation constraints for the fields
 
 ## 1.4 Test Design
 
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases 
-are:
+are boundary value analysis, equivalence partitioning and use case testing.
+
+The following checklist was generated:[Checklist.pdf](https://github.com/HVali/Manual_Testing_Portofolio/blob/main/Final%20Project/Checklist.pdf) and test cases [Test_cases.pdf](https://github.com/HVali/Manual_Testing_Portofolio/blob/main/Final%20Project/Test_cases.pdf)
+
 
 **Test cases:**
 -> enter here test cases or at least the titles
