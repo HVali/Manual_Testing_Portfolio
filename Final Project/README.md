@@ -12,9 +12,9 @@ Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 
 # Functional specifications
 
-The below Story was created in JIRA and describes the functional specifications of the Employee module, for which the final project is performed upon.
+The below Story was created in JIRA and describes the functional specifications of the Employee module, for which the final project is performed upon: (https://github.com/HVali/Manual_Testing_Portofolio/blob/main/Final%20Project/Final_Project_Functional_Specifications.pdf).
 
-
+![image](https://github.com/HVali/Manual_Testing_Portofolio/blob/main/Final%20Project/Final_Project_Functional_Specifications.png)
 
 # 1 Testing section
 
