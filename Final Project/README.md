@@ -12,7 +12,8 @@ Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 
 # Functional specifications
 
--> enter here the functional specifications created in JIRA
+The below Story was created in JIRA and describes the functional specifications of the Employee module, for which the final project is performed upon.
+
 
 
 # 1 Testing section
