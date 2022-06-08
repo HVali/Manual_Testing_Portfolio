@@ -55,6 +55,8 @@ User story specifications, test cases, test results and bug reports can be found
 
 Performed exploratory testing on academybugs.com. Found bugs were reported on JIRA: [AcademyBugs Report](https://github.com/HVali/Manual_Testing_Portfolio/blob/main/AcademyBugs/AcademyBugs_Report.pdf)
 
-### Exploratory testing on https://qa-practice.netlify.app/bugs-form.html
+### SQL - Cinema Database
 
-Performed exploratory testing on academybugs.com. Found bugs were reported here: [qa-practice-bugs-form](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/qa-practice-bugs-form/Reported%20Bugs.md)
+Created a database named 'cinema' and a number of four tables named 'movie', 'movie_genres', 'lead_actor' and 'screening' with all the columns needed to save data per specifications. Performed different queries inside the sql file: [cinema.sql](https://github.com/HVali/Manual_Testing_Portfolio/blob/main/Cinema%20Database/cinema%20database.sql)
+
+The model for cinema database can be found here: [cinema_model.mwb](https://github.com/HVali/Manual_Testing_Portfolio/blob/main/Cinema%20Database/cinema_model.mwb)
