@@ -57,4 +57,4 @@ Performed exploratory testing on academybugs.com. Found bugs were reported on JI
 
 ### SQL - Cinema Database
 
-Created a database named 'cinema'. Database, model and different queries performed inside the sql file can be found here: [Ciname Database](https://github.com/HVali/Manual_Testing_Portfolio/tree/main/Cinema%20Database)
+Created a database named 'cinema'. Database, model and different queries performed inside the sql file can be found here: [Cinema Database](https://github.com/HVali/Manual_Testing_Portfolio/tree/main/Cinema%20Database)
