@@ -3,7 +3,7 @@ Application under test: https://demoqa.com/automation-practice-form/
 
 The requirements for the Student Registration form were: 
 
-![image](https://github.com/HVali/Manual_Testing_Portfolio/blob/main/Student%20Registration%20Form/Student_Registration_Form_STORY.png)
+![image]
 
 
 
