@@ -42,7 +42,7 @@ __SQL__
 
 The final project consisted of choosing a module from an application and start the testing process based on business specifications, from Test Planning until Test Completion.
 
-The test plan, test cases, bugs, test results for the final project can be found here: [Final project](https://github.com/julai215/itf_final_project_example_and_portofolio/tree/main/Final%20Project)
+The test plan, test cases, bugs, test results for the final project can be found here: [Final project](https://github.com/HVali/Manual_Testing_Portfolio/tree/main/Final%20Project)
 
 ### Student registration form - functional testing
 
