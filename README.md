@@ -70,8 +70,8 @@ Created a database named 'cinema'. Database, model and different queries perform
 
 Created a database named 'computerstore'. Database, model and different queries performed inside the sql file can be found here: [Computerstore Database](https://github.com/HVali/Manual_Testing_Portfolio/tree/main/Computerstore%20database)
 
-Created a database named 'humanresources'. Database, model and different queries performed inside the sql file can be found here: [Computerstore Database](https://github.com/HVali/Manual_Testing_Portfolio/tree/main/Humanresources%20database)
+Created a database named 'humanresources'. Database, model and different queries performed inside the sql file can be found here: [Humanresources Database](https://github.com/HVali/Manual_Testing_Portfolio/tree/main/Humanresources%20database)
 
 ### API Postman collection
-* Orange HRM apllication (https://github.com/HVali/Manual_Testing_Portfolio/tree/main/API%20OrangeHRM%20postman_collection)
+[Orange HRM apllication](https://github.com/HVali/Manual_Testing_Portfolio/tree/main/API%20OrangeHRM%20postman_collection)
 
