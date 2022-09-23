@@ -72,7 +72,7 @@ Performed functional testing based on story requirements for https://demoqa.com/
 User story specifications, test cases, test results and bug reports can be found here: [Student Registration Form](https://github.com/HVali/Manual_Testing_Portfolio/tree/main/Student%20Registration%20Form)
 
 
-### Exploratory testing on academybugs.com
+### Exploratory testing on [AcademyBugs.com](https://academybugs.com/)
 
 Performed exploratory testing on academybugs.com. Found bugs were reported on JIRA: [AcademyBugs Report](https://github.com/HVali/Manual_Testing_Portfolio/blob/main/AcademyBugs/AcademyBugs_Report.pdf)
 
