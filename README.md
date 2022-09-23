@@ -35,10 +35,25 @@ __SQL__
 
 ## Tools
 
-* Zephyr for JIRA 
-* JIRA
-* Postman
-* MySQL Workbench
+# Jira
+
+* know how to create test cases and test suits using Zephyr Squad extension
+* able to run test cases using cycles
+* know how to use dashboards
+
+# Postman
+
+* know how to check API calls using json body
+
+# MySQL Workbanch
+
+* able to create databases, tables and queries
+
+## Courses
+
+# ISTQB - CTFL
+
+# Manual Testing: online mentoring of study at [{IT} Factory](https://www.itfactory.ro)
 
 ## Examples of my work
 
