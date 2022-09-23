@@ -34,26 +34,16 @@ __SQL__
  * know how to use JOINS in queries
 
 ## Tools
-
-# Jira
-
-* know how to create test cases and test suits using Zephyr Squad extension
-* able to run test cases using cycles
-* know how to use dashboards
-
-# Postman
-
-* know how to check API calls using json body
-
-# MySQL Workbanch
-
-* able to create databases, tables and queries
+ 
+ * Zephyr for JIRA
+ * JIRA
+ * Postman
+ * MySQL Workbench
 
 ## Courses
 
-# ISTQB - CTFL
-
-# Manual Testing: online mentoring of study at [{IT} Factory](https://www.itfactory.ro)
+ * ISTQB - CTFL
+ * Manual Testing: online mentoring of study at [{IT} Factory](https://www.itfactory.ro)
 
 ## Examples of my work
 
@@ -74,6 +64,14 @@ User story specifications, test cases, test results and bug reports can be found
 
 Performed exploratory testing on academybugs.com. Found bugs were reported on JIRA: [AcademyBugs Report](https://github.com/HVali/Manual_Testing_Portfolio/blob/main/AcademyBugs/AcademyBugs_Report.pdf)
 
-### SQL - Cinema Database
+### SQL Databases
 
 Created a database named 'cinema'. Database, model and different queries performed inside the sql file can be found here: [Cinema Database](https://github.com/HVali/Manual_Testing_Portfolio/tree/main/Cinema%20Database)
+
+Created a database named 'computerstore'. Database, model and different queries performed inside the sql file can be found here: [Computerstore Database](https://github.com/HVali/Manual_Testing_Portfolio/tree/main/Computerstore%20database)
+
+Created a database named 'humanresources'. Database, model and different queries performed inside the sql file can be found here: [Computerstore Database](https://github.com/HVali/Manual_Testing_Portfolio/tree/main/Humanresources%20database)
+
+### API Postman collection
+* Orange HRM apllication (https://github.com/HVali/Manual_Testing_Portfolio/tree/main/API%20OrangeHRM%20postman_collection)
+
