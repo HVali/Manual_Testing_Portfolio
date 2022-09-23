@@ -1,6 +1,18 @@
 
 # Portfolio
 
+- [About me](https://github.com/HVali/Manual_Testing_Portfolio#about-me)
+- [CV](https://github.com/HVali/Manual_Testing_Portfolio#cv)
+- [Skills](https://github.com/HVali/Manual_Testing_Portfolio#skills)
+- [Tools](https://github.com/HVali/Manual_Testing_Portfolio#tools)
+- [Courses](https://github.com/HVali/Manual_Testing_Portfolio#courses)
+- [Examples of my work](https://github.com/HVali/Manual_Testing_Portfolio#examples-of-my-work)
+  * [Final project for ITF Manual Testing Course](https://github.com/HVali/Manual_Testing_Portfolio#final-project-for-itf-manual-testing-course)
+  * [Student registration form - functional testing](https://github.com/HVali/Manual_Testing_Portfolio#student-registration-form---functional-testing)
+  * [Exploratory testing on academybugs.com](https://github.com/HVali/Manual_Testing_Portfolio#exploratory-testing-on-academybugscom)
+  * [SQL Databases](https://github.com/HVali/Manual_Testing_Portfolio#sql-databases)
+  * [API Postman collection](https://github.com/HVali/Manual_Testing_Portfolio#api-postman-collection)
+
 ## About me
 
 My name is Valentina Hatos. I have started to take an interest in the software testing area. Although I have gained vast experience in another field, I am looking for a job as QA and I want this professional reconversion to give me the opportunity to develop my testing knowledge and technical skills, through my analitical thinking and attention to detail, as well as my desire to develop and grow professionally. On this site I would like to share my all gained experience from personal studies and researches.
