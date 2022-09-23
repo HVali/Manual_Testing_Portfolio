@@ -3,7 +3,11 @@
 
 ## About me
 
-My name is Valentina Hatos. I have started to take an interest in the software testing area. My goal is to develop testing knowledge and technical skills. On this site I would like to share my all gained experience from personal studies and researches.
+My name is Valentina Hatos. I have started to take an interest in the software testing area. Although I have gained vast experience in another field, I am looking for a job as QA and I want this professional reconversion to give me the opportunity to develop my testing knowledge and technical skills, through my analitical thinking and attention to detail, as well as my desire to develop and grow professionally. On this site I would like to share my all gained experience from personal studies and researches.
+
+## CV
+
+You can download my CV as [PDF](https://github.com/HVali/Manual_Testing_Portfolio/blob/main/CV%20-%20Valentina%20Hatos.pdf)
 
 ## Skills
 
