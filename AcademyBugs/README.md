@@ -125,7 +125,6 @@ Each bug report contains the steps to reproduce, the expected result, the actual
 | Expected result | The Sign In button is above the footer. |
 | Actual result | The Sign In button overlaps the footer. |
 
-Complete bug reports: [AcademyBugs_Report.pdf](AcademyBugs_Report.pdf)
 
 ---
 
