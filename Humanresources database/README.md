@@ -3,14 +3,14 @@
 <p align="center">Managing Database Structure and Writing SQL Queries</p>
 
 <p align="center">
-📄 <b>Download PDF Documentation:</b><br>
-[ EN ] <a href="Human_Resources_Database_Valentina_Hatos.pdf"><b>[ English Version PDF ]</b></a><br>
-[ ES ] <a href="Base_Datos_Recursos_Humanos_Valentina_Hatos.pdf"><b>[ Versión en Español PDF ]</b></a>
+<b>Download PDF Documentation:</b><br>
+<a href="Human_Resources_Database_Valentina_Hatos.pdf"><b>[ English Version PDF ]</b></a><br>
+<a href="Base_Datos_Recursos_Humanos_Valentina_Hatos.pdf"><b>[ Versión en Español PDF ]</b></a>
 </p>
 
 ---
 
-## 📋 Index
+## Index
 
 - [1. Introduction](#1-introduction)
 - [2. Creating the Databases and the Tables](#2-creating-the-databases-and-the-tables)
@@ -289,7 +289,6 @@ select e.First_name, r.amount
 from employee e inner join reward r on e.Employee_id = r.Employee_ref_id;
 ```
 
-📄 Complete SQL script: [humanresource database.sql](humanresource%20database.sql)
 
 ---
 
