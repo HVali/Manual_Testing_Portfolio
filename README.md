@@ -1,89 +1,97 @@
+<h1 align="center">Manual Testing Portfolio</h1>
 
-# Portfolio
+<p align="center">Test planning, test design, test execution, bug reporting, API testing and SQL</p>
 
-- [About me](https://github.com/HVali/Manual_Testing_Portfolio#about-me)
-- [CV](https://github.com/HVali/Manual_Testing_Portfolio#cv)
-- [Skills](https://github.com/HVali/Manual_Testing_Portfolio#skills)
-- [Tools](https://github.com/HVali/Manual_Testing_Portfolio#tools)
-- [Courses](https://github.com/HVali/Manual_Testing_Portfolio#courses)
-- [Examples of my work](https://github.com/HVali/Manual_Testing_Portfolio#examples-of-my-work)
-  * [Final project for ITF Manual Testing Course](https://github.com/HVali/Manual_Testing_Portfolio#final-project-for-itf-manual-testing-course)
-  * [Student registration form - functional testing](https://github.com/HVali/Manual_Testing_Portfolio#student-registration-form---functional-testing)
-  * [Exploratory testing on academybugs.com](https://github.com/HVali/Manual_Testing_Portfolio#exploratory-testing-on-academybugscom)
-  * [SQL Databases](https://github.com/HVali/Manual_Testing_Portfolio#sql-databases)
-  * [API Postman collection](https://github.com/HVali/Manual_Testing_Portfolio#api-postman-collection)
+---
 
-## About me
+This repository contains the manual testing projects I completed during the ITF Manual Testing course. I finished the course with the ISTQB Certified Tester Foundation Level (CTFL) certification. These projects show the knowledge I gained.
 
-My name is Valentina Hatos. I have started to take an interest in the software testing area. Although I have gained vast experience in another field, I am looking for a job as QA and I want this professional reconversion to give me the opportunity to develop my testing knowledge and technical skills, through my analitical thinking and attention to detail, as well as my desire to develop and grow professionally. On this site I would like to share my all gained experience from personal studies and researches.
+Each project includes the original files (test cases, executions, bug reports, SQL scripts) and full documentation in English and Spanish.
 
-## CV
+## Index
 
-You can download my CV as [PDF](https://github.com/HVali/Manual_Testing_Portfolio/blob/main/CV%20-%20Valentina%20Hatos.pdf)
+- [Projects](#projects)
+  - [Final Project – OrangeHRM](#final-project--orangehrm)
+  - [Student Registration Form – Functional Testing](#student-registration-form--functional-testing)
+  - [AcademyBugs – Exploratory Testing](#academybugs--exploratory-testing)
+  - [SQL Databases](#sql-databases)
+  - [API Postman Collection](#api-postman-collection)
+- [Skills](#skills)
+- [Tools](#tools)
+- [Certification and Course](#certification-and-course)
 
-## Skills
+---
 
-You can find examples of the described skills in the Examples of my work section.
+## Projects
 
-__Testing__
- * can perform functional testing on web applications
- * gained hands-on experience by testing applications created for educational purposes
- * can create test cases and execute them in a test management tool
- * can create bug reports for the defects found and link them with the appropriate requirement
- * can analyze efficiently functional documentation and point out the right questions to ensure that defects are found early
- * can apply test design techniques such as boundary value analisys, equivalence paritioning to derive test cases
+| Project | Type | Documentation |
+|---|---|---|
+| [Final Project – OrangeHRM](Final%20Project) | Full testing process, API, SQL | [EN](Final%20Project/Final_Project_Manual_Testing_Valentina_Hatos.pdf) · [ES](Final%20Project/Proyecto_Final_Testing_Manual_Valentina_Hatos.pdf) |
+| [Student Registration Form](Student%20Registration%20Form) | Functional testing | [EN](Student%20Registration%20Form/Student_Registration_Form_Testing_Valentina_Hatos.pdf) · [ES](Student%20Registration%20Form/Pruebas_Formulario_Registro_Estudiantes_Valentina_Hatos.pdf) |
+| [AcademyBugs](AcademyBugs) | Exploratory testing | [EN](AcademyBugs/AcademyBugs_Exploratory_Testing_Valentina_Hatos.pdf) · [ES](AcademyBugs/Pruebas_Exploratorias_AcademyBugs_Valentina_Hatos.pdf) |
+| [Cinema Database](Cinema%20Database) | SQL | [EN](Cinema%20Database/Cinema_Database_Valentina_Hatos.pdf) · [ES](Cinema%20Database/Base_Datos_Cinema_Valentina_Hatos.pdf) |
+| [Computer Store Database](Computerstore%20database) | SQL | [EN](Computerstore%20database/Computer_Store_Database_Valentina_Hatos.pdf) · [ES](Computerstore%20database/Base_Datos_Tienda_Informatica_Valentina_Hatos.pdf) |
+| [Human Resources Database](Humanresources%20database) | SQL | [EN](Humanresources%20database/Human_Resources_Database_Valentina_Hatos.pdf) · [ES](Humanresources%20database/Base_Datos_Recursos_Humanos_Valentina_Hatos.pdf) |
+| [API Postman Collection](API%20OrangeHRM%20postman_collection) | API testing | Part of the Final Project |
 
-__API__
- * gained experience through manual testing of APIs created for educational purposes
- * know how to read an API documentation
- * tested different APIs using POST, PUT, GET, DELETE methods
- * know how to manipulate JSON objects for requests in Postman tool
- * know how to use variables and environments in Postman 
+### Final Project – OrangeHRM
 
-__SQL__
- * familiar with all basic instructions in SQL
- * can write simple interogation queries, but also complex ones with subqueries
- * know how to use JOINS in queries
+I tested the Employee module of the OrangeHRM application, from Test Planning to Test Completion. I wrote 44 test cases in JIRA and Zephyr Squad, executed them and reported 5 bugs. I also tested the API in Postman and wrote SQL queries in MySQL Workbench.
 
-## Tools
- 
- * Zephyr for JIRA
- * JIRA
- * Postman
- * MySQL Workbench
+### Student Registration Form – Functional Testing
 
-## Courses
+I tested the registration form from https://demoqa.com/automation-practice-form/ based on the client requirements. I wrote and executed 50 test cases and reported 19 bugs.
 
- * ISTQB - CTFL
- * Manual Testing: online mentoring of study at [{IT} Factory](https://www.itfactory.ro)
+### AcademyBugs – Exploratory Testing
 
-## Examples of my work
-
-### Final project for ITF Manual Testing Course
-
-The final project consisted of choosing a module from an application and start the testing process based on business specifications, from Test Planning until Test Completion.
-
-The test plan, test cases, bugs, test results for the final project can be found here: [Final project](https://github.com/HVali/Manual_Testing_Portfolio/tree/main/Final%20Project)
-
-### Student registration form - functional testing
-
-Performed functional testing based on story requirements for https://demoqa.com/automation-practice-form/ 
-
-User story specifications, test cases, test results and bug reports can be found here: [Student Registration Form](https://github.com/HVali/Manual_Testing_Portfolio/tree/main/Student%20Registration%20Form)
-
-
-### Exploratory testing on [AcademyBugs.com](https://academybugs.com/)
-
-Performed exploratory testing on academybugs.com. Found bugs were reported on JIRA: [AcademyBugs Report](https://github.com/HVali/Manual_Testing_Portfolio/blob/main/AcademyBugs/AcademyBugs_Report.pdf)
+I performed exploratory testing on https://academybugs.com/ and reported 10 bugs in JIRA.
 
 ### SQL Databases
 
-Created a database named 'cinema'. Database, model and different queries performed inside the sql file can be found here: [Cinema Database](https://github.com/HVali/Manual_Testing_Portfolio/tree/main/Cinema%20Database)
+I created three databases in MySQL Workbench and wrote queries on them:
 
-Created a database named 'computerstore'. Database, model and different queries performed inside the sql file can be found here: [Computerstore Database](https://github.com/HVali/Manual_Testing_Portfolio/tree/main/Computerstore%20database)
+- **Cinema Database** – 4 related tables and 9 queries with joins, subqueries and grouping.
+- **Computer Store Database** – 2 related tables and 25 tasks, including data changes and alternative solutions.
+- **Human Resources Database** – changes to the database structure, primary and foreign keys, and join queries.
 
-Created a database named 'humanresources'. Database, model and different queries performed inside the sql file can be found here: [Humanresources Database](https://github.com/HVali/Manual_Testing_Portfolio/tree/main/Humanresources%20database)
+### API Postman Collection
 
-### API Postman collection
-[Orange HRM apllication](https://github.com/HVali/Manual_Testing_Portfolio/tree/main/API%20OrangeHRM%20postman_collection)
+The Postman collection I created for API testing on OrangeHRM. It is described in the Final Project documentation.
+
+---
+
+## Skills
+
+| Area | What I can do | Where you can see it |
+|---|---|---|
+| Test planning | Define the test scope, entry and exit criteria, roles and risks | [Final Project](Final%20Project) |
+| Test design | Write test cases from requirements, using boundary value analysis, equivalence partitioning and use case testing | [Final Project](Final%20Project), [Student Registration Form](Student%20Registration%20Form) |
+| Test execution | Execute test cycles in Zephyr Squad, track the results and generate a traceability matrix | [Final Project](Final%20Project), [Student Registration Form](Student%20Registration%20Form) |
+| Exploratory testing | Explore an application without predefined test cases and report the problems found | [AcademyBugs](AcademyBugs) |
+| Bug reporting | Write clear bug reports with steps to reproduce, expected and actual results and priority, linked to the related tests | All testing projects |
+| API testing | Send GET, POST, PUT and DELETE requests, get an access token, use variables and environments, and check status codes and response bodies with test scripts | [API Postman Collection](API%20OrangeHRM%20postman_collection) |
+| SQL | Create tables with primary and foreign keys, change the structure with ALTER, DROP and TRUNCATE, change data, and write queries with joins, subqueries, grouping and functions | [SQL Databases](#sql-databases) |
+
+---
+
+## Tools
+
+| Tool | What I used it for |
+|---|---|
+| JIRA | User stories, test issues and bug reports |
+| Zephyr Squad | Test steps, test cycles, test execution, reports and traceability |
+| Postman | API requests, environments, variables and test scripts |
+| MySQL Workbench | Databases, SQL queries and EER models |
+
+---
+
+## Certification and Course
+
+| | Details |
+|---|---|
+| Certification | ISTQB® Certified Tester Foundation Level (CTFL), Syllabus v2018 |
+| Issued by | South East European Testing Board (SEETB), ISTQB member board |
+| Exam passed | 3 May 2022 |
+| Certificate No. | 22-CTFL-3901-SEETB · [Certificate (PDF)](ISTQB_CTFL_Valentina_HATOS.pdf) |
+| Course | Manual Testing – online mentoring at [{IT} Factory](https://www.itfactory.ro) |
 
