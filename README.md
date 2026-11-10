@@ -92,6 +92,6 @@ The Postman collection I created for API testing on OrangeHRM. It is described i
 | Certification | ISTQB® Certified Tester Foundation Level (CTFL), Syllabus v2018 |
 | Issued by | South East European Testing Board (SEETB), ISTQB member board |
 | Exam passed | 3 May 2022 |
-| Certificate No. | 22-CTFL-3901-SEETB · [Certificate (PDF)](ISTQB_CTFL_Valentina_HATOS.pdf) |
+| Certificate No. | 22-CTFL-3901-SEETB |
+| Certificate | Available on request |
 | Course | Manual Testing – online mentoring at [{IT} Factory](https://www.itfactory.ro) |
-
